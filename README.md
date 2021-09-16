@@ -15,7 +15,8 @@ Used skils:
 
 
 Payment Info:
-  https://github.com/pranjalnehete02/book_my_show/issues/1#issuecomment-921147979
+  ![Payment info](https://user-images.githubusercontent.com/85827353/133667183-1028d173-d071-4546-a72b-1bf727516c3b.png)
+
   
  Payment Successful message:
-  https://github.com/pranjalnehete02/book_my_show/issues/1#issuecomment-921148912
+![Payment successful msg](https://user-images.githubusercontent.com/85827353/133667332-7c8c9979-db31-43bb-935d-f04394db001a.png)
